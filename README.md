@@ -1,30 +1,30 @@
-# Steparium Support
+Steparium Support
 
-Steparium is a simple step counter with a living illustrated forest.
+Questions, problems or ideas? Email us and we'll get back to you.
 
-## Contact
-
-For support, email:
+Email
 tommysappsupport@gmail.com
 
-## Help
+My steps aren't counting
+Open your iPhone's Settings, tap Privacy & Security, then Motion & Fitness, and make sure Steparium is turned on.
 
-Steparium uses Motion & Fitness permission for today’s step counting.
+My older steps are missing
+Steparium can read your past steps from Apple Health. Open History in Steparium and choose to bring in your step history.
 
-Apple Health permission is optional and read-only. It is used only to show richer step history.
+New animals
+Animals join your forest as you walk. Each one keeps its own hours, so some only come out at dawn, dusk or night. Open Animals to see when to look for each one.
 
-Location permission is optional and used only to show local weather beside the date.
+The weather is missing
+Turn on Show weather in Steparium's Settings, and allow location, or type in a town on the Weather page.
 
-Notifications are optional and used only for daily goal alerts.
+The daily goal
+Tap the goal under your step count to see how today's goal was set, or choose a fixed goal in Settings.
 
-## Privacy
+Widgets
+Touch and hold your Home Screen or Lock Screen, tap Edit, then add a Steparium widget.
 
-Steparium does not require an account.
+Privacy
+Steparium doesn't collect your data. There are no accounts, no adverts and no tracking. Your steps and health data stay on your iPhone.
 
-Steparium does not show ads.
-
-Steparium does not track you.
-
-Steparium does not upload your step data to a developer server.
-
-Your goals, settings, animal unlocks, and Steparium progress stay on your device.
+Your health
+Steparium is for everyday walking, not medical advice. If you're unsure what's right for you, talk to your doctor.
